@@ -468,7 +468,7 @@ footer li {
   }
 
   .simply-countdown > .simply-section {
-    padding: 30px;
+    padding: 45px;
     margin: 3px;
   }
 
@@ -491,13 +491,13 @@ footer li {
   }
 }
 
-@media screen and (max-width: 0px) {
+@media screen and (max-width: 1px) {
   html {
     font-size: 60%;
   }
 
   .simply-countdown > .simply-section {
-    padding: 28px;
+    padding: 30px;
     margin: 3px;
   }
 
